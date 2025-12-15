@@ -61,6 +61,10 @@ Final-Project-COMP4046/
 └── README.md
 ```
 
+## Github Repository
+[Github Repository](https://github.com/taixox/Final-Project-COMP4046)
+
+
 ## Build Instructions
 
 To build the project from source:
